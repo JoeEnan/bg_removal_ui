@@ -1,0 +1,16 @@
+[project]
+name = "bg-removal-ui"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "huggingface-hub>=0.30.1",
+    "opencv-python-headless>=4.11.0.86",
+    "streamlit>=1.44.1",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+]
+
+[[tool.uv.index]]
+url = "https://download.pytorch.org/whl/cpu"

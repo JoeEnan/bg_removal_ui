@@ -1,0 +1,8 @@
+services:
+  bg_removal:
+    build:
+      context: .
+    container_name: rmbg
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
