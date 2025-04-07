@@ -33,7 +33,7 @@ wheels = [
 ]
 
 [[package]]
-name = "bg-removal"
+name = "bg-removal-ui"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
