@@ -22,8 +22,8 @@
 1. **Clone the Repository**
    - Clone the project repository to your local machine:
      ```bash
-     git clone https://github.com/JoeEnan/stt-transcripts-search.git
-     cd stt-transcripts-search
+     git clone https://github.com/JoeEnan/bg_removal_ui.git
+     cd bg_removal_ui
      ```
 
 2. **Build and Run Docker Containers**
